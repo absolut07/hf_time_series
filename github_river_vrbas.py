@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import numpy as np
 #%%
-"""I chose one of the following models"""
+"""I choose one of the following models"""
 
 #slm
 def run_net(y0,trains):
